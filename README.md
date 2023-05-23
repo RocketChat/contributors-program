@@ -1,4 +1,4 @@
-# Contributors Programs
+# Annual Contributors Programs
 
 Welcome to Rocket.Chat contribution programs! This repository houses information about all Rocket.Chat annual contributors program.
 
